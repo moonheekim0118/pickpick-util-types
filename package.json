@@ -1,6 +1,6 @@
 {
   "name": "pickpick-util-types",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "util types using in Woowacourse project PickPick(2022)",
   "main": "lib/index.ts",
   "types": "lib/index.ts",
