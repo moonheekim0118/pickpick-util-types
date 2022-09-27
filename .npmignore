@@ -2,3 +2,4 @@ node_modules/
 tsconfig.json
 jest.config.js
 __test__
+.husky
