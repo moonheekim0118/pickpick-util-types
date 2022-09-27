@@ -1,0 +1,25 @@
+{
+  "name": "pickpick-util-types",
+  "version": "1.0.0",
+  "description": "util types using in Woowacourse project PickPick(2022)",
+  "main": "lib/index.d.ts",
+  "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonheekim0118/pickpick-utilType.git"
+  },
+  "keywords": [
+    "util-types",
+    "typescript"
+  ],
+  "author": "moonheekim0118",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moonheekim0118/pickpick-utilType/issues"
+  },
+  "homepage": "https://github.com/moonheekim0118/pickpick-utilType#readme",
+  "devDependencies": {
+    "@types/react": "^18.0.21",
+    "typescript": "^4.8.3"
+  }
+}
