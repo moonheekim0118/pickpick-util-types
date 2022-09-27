@@ -9,6 +9,6 @@
     "outDir": "lib", // 트랜스파일링 결과물이 담길 디렉토리
     "declaration": true // d.ts 파일을 생성한다.
   },
-  "include": ["lib/index.d.ts"],
+  "include": ["lib/index.ts"],
   "exclude": ["node_modules"]
 }
